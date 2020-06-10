@@ -1,0 +1,146 @@
+[
+   {
+      "name": "convertCelsToF",
+      "desc": "Converts celsius to Fahrenheit",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 400
+   },
+   {
+      "name": "reverseStr",
+      "desc": "Reverse a string",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 401
+   },
+   {
+      "name": "factorialize",
+      "desc": "factoralize a number",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 402
+   },
+   {
+      "name": "findLongWordStr",
+      "desc": "Find the longest word in a string",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 403
+   },
+   {
+      "name": "largestOfFour",
+      "desc": "Return an array of the largest numbers in an array",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 404
+   },
+   {
+      "name": "confirmEnding",
+      "desc": "Check if a string ends with the given target",
+      "inputs": 2,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 405
+   },
+   {
+      "name": "repeatStringNumTimes",
+      "desc": "Repeat a string",
+      "inputs": 2,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 406
+   },
+   {
+      "name": "truncateString",
+      "desc": "Truncate a string",
+      "inputs": 2,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 407
+   },
+   {
+      "name": "findElement",
+      "desc": "Find an element in array",
+      "inputs": 2,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 408
+   },
+   {
+      "name": "booWho",
+      "desc": "Check if value is classified as boolean primitive",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 409
+   },
+   {
+      "name": "titleCase",
+      "desc": "Title Case a Sentence",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 410
+   },
+   {
+      "name": "frankensplice",
+      "desc": "Slice and splice an array",
+      "inputs": 3,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 411
+   },
+   {
+      "name": "bouncer",
+      "desc": "Remove all falsy values",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 412
+   },
+   {
+      "name": "getIndexToIns",
+      "desc": "Return lowest index that",
+      "inputs": 2,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 413
+   },
+   {
+      "name": "mutation",
+      "desc": "Mutations",
+      "inputs": 1,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 414
+   },
+   {
+      "name": "chunkArrayInGroups",
+      "desc": "split array in groups and return two dimensional array",
+      "inputs": 2,
+      "type": "Algorithms",
+      "typeNum": 400,
+      "isFavorite": false,
+      "order": 415
+   }
+]

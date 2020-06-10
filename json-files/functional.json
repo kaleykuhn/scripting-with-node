@@ -1,0 +1,110 @@
+[
+   {
+      "name": "returnPartArrSlice",
+      "desc": "Return part of an array using slice method",
+      "inputs": 2,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 300
+   },
+   {
+      "name": "removeElemSlice",
+      "desc": "Remove part of an array using slice method",
+      "inputs": 2,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 301
+   },
+   {
+      "name": "concatArr",
+      "desc": "Combine Two Arrays using concat Method",
+      "inputs": 2,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 302
+   },
+   {
+      "name": "concatToEndArray",
+      "desc": "Add Elements to end of Array using concat",
+      "inputs": 2,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 303
+   },
+   {
+      "name": "reduceMethAnaData",
+      "desc": "Use the reduce Method to Analyze Data",
+      "inputs": 1,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 304
+   },
+   {
+      "name": "useHigherOrderFun",
+      "desc": "Use higher order functions map,filter, or reduce to solve complex problem",
+      "inputs": 1,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 305
+   },
+   {
+      "name": "SortArrAlpha",
+      "desc": "Sort an array alphabetically using sort method",
+      "inputs": 1,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 306
+   },
+   {
+      "name": "SpltStrArr",
+      "desc": "Split a string into an Array using split method.",
+      "inputs": 1,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 307
+   },
+   {
+      "name": "sentisify",
+      "desc": "Join the elements of an array to create a string using join method.",
+      "inputs": 1,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 308
+   },
+   {
+      "name": "convStrUrlSlug",
+      "desc": "Apply Functional Programming to Convert Strings to URL Slugs",
+      "inputs": 1,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 309
+   },
+   {
+      "name": "everyMethCheckPos",
+      "desc": "Use the every method to check every element in array meets criteria",
+      "inputs": 1,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 310
+   },
+   {
+      "name": "someMethCheckNeg",
+      "desc": "Use the some method to check if any element in array meets criteria",
+      "inputs": 1,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 311
+   }
+]
