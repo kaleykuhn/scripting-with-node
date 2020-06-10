@@ -1,0 +1,191 @@
+[
+   {
+      "name": "add",
+      "desc": "Add two values together",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 100
+   },
+   {
+      "name": "subtract",
+      "desc": "Subtract two values",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 101
+   },
+   {
+      "name": "multiply",
+      "desc": "Multiply two values together",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 102
+   },
+   {
+      "name": "quotient",
+      "desc": "Divide two values",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 103
+   },
+   {
+      "name": "increment",
+      "desc": "Add one to a value",
+      "inputs": 1,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 104
+   },
+   {
+      "name": "decrement",
+      "desc": "Decrement a value by 1",
+      "inputs": 1,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 105
+   },
+   {
+      "name": "product",
+      "desc": "multiply two decimal numbers",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 106
+   },
+   {
+      "name": "remainder",
+      "desc": "Divide two decimal numbers",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 107
+   },
+   {
+      "name": "concatenatep",
+      "desc": "Merge two strings to create a new one",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 108
+   },
+   {
+      "name": "concatenat",
+      "desc": "Add a string to end of a string",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 109
+   },
+   {
+      "name": "construct",
+      "desc": "Add a var into a string",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 110
+   },
+   {
+      "name": "length",
+      "desc": "Find the length of a string",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 111
+   },
+   {
+      "name": "first",
+      "desc": "Use bracket notation to find the first character in a String",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 112
+   },
+   {
+      "name": "nth",
+      "desc": "Find the nth character in a string",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 113
+   },
+   {
+      "name": "lastCharacter",
+      "desc": "Find the last character in a String",
+      "inputs": 1,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 114
+   },
+   {
+      "name": "findNthToLast",
+      "desc": "Find the nth to last character in a string",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 115
+   },
+   {
+      "name": "push",
+      "desc": "Manipulate arrays with .push()",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 116
+   },
+   {
+      "name": "pop",
+      "desc": "Remove last item an array with .pop()",
+      "inputs": 1,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 117
+   },
+   {
+      "name": "shift",
+      "desc": "Remove first item in an array with .shift()",
+      "inputs": 1,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 118
+   },
+   {
+      "name": "unshift",
+      "desc": "Manipulate arrays with .unshift()",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 119
+   },
+   {
+      "name": "standInLine",
+      "desc": "Add number to end of array,remove first element and show that removed element in return",
+      "inputs": 2,
+      "type": "basic",
+      "typeNum": 100,
+      "isFavorite": false,
+      "order": 120
+   }
+]
