@@ -188,7 +188,6 @@
       "isFavorite": false,
       "order": 120
    },
-
    {
       "name": "countingCards",
       "desc": "uses a switch statement to check count cards",
@@ -252,7 +251,6 @@
       "isFavorite": false,
       "order": 206
    },
-
    {
       "name": "returnPartArrSlice",
       "desc": "Return part of an array using slice method",
@@ -361,7 +359,6 @@
       "isFavorite": false,
       "order": 311
    },
-
    {
       "name": "convertCelsToF",
       "desc": "Converts celsius to Fahrenheit",
